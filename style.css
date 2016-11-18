@@ -4,6 +4,15 @@ body {
 	font-size: 18px;
 	text-align: center;
 }
+div {
+    background-color: green;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+div:hover {
+    background-color: blue;
+}
 
 #container {
 	background-color: #ebebeb;
